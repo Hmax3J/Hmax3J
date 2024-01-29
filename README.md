@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi there !
+I'm currently living in Korea, and I aspire to become a backend developer. <br>
+After studying to become a better developer, I plan to leave my traces on GitHub. <br>
+I believe that when given a role, I approach it diligently without cutting corners. <br>
+I tend to work quietly and consistently, and I want to leverage these qualities in my development work. <br>
+During a movie community project, I faced a challenge when implementing the modification of user preferences, specifically changing the preferred movie genre. <br>
+Upon completing this task, I noticed that returning to the user's profile page displayed a disorderly arrangement of preferred genres, and the data in the database was incorrectly stored. <br>
+It took quite some time to resolve this issue, but the feeling of accomplishment and pride afterward was truly rewarding. <br>
+In the future, I aim to bring this work ethic to a professional setting, diligently working towards my desired role in a company. <br>
+I want to experience a sense of achievement and satisfaction in my career, much like the rewarding feeling I had after resolving the issue in my movie community project.
 <!--
 **Hmax3J/Hmax3J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
