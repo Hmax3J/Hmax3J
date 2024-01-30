@@ -17,7 +17,7 @@ I want to experience a sense of achievement and satisfaction in my career, <br>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
   <div>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="pointer-events: none;">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" onclick="return false">
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </div>
 
