@@ -1,16 +1,10 @@
 ### Hi there ! :wave:
-:sunny: I'm currently living in Korea, and I aspire to become a backend developer. :smiley: <br>
-After studying to become a better developer, I plan to leave my traces on GitHub. :seedling: <br>
-I believe that when given a role, I approach it diligently without cutting corners. <br>
-I tend to work quietly and consistently, and I want to leverage these qualities in my development work. <br>
-During a movie community project, <br>
-I faced a challenge when implementing the modification of user preferences, specifically changing the preferred movie genre. <br>
-Upon completing this task, I noticed that returning to the user's profile page displayed a disorderly arrangement of preferred genres, <br>
-and the data in the database was incorrectly stored. <br>
-It took quite some time to resolve this issue, but the feeling of accomplishment and pride afterward was truly rewarding. <br>
-In the future, I aim to bring this work ethic to a professional setting, diligently working towards my desired role in a company. <br>
-I want to experience a sense of achievement and satisfaction in my career, <br>
-:pray: much like the rewarding feeling I had after resolving the issue in my movie community project. :muscle:
+:sunny: 한국, 서울 거주 하고 있어요 ! BackEnd 개발자가 되고 싶어요 ! :smiley: <br>
+기본에 충실한 개발자가 되고 싶어요. :seedling: <br>
+역할이 주어지면 꼼꼼하고 성실하게 확인하고 진행하는 성향을 가졌습니다. <br>
+모르는 부분, 어려운 부분이 있더라도 포기하지 않고 끝까지 하는 성격입니다. <br>
+포기하지 않고 끝내 문제를 해결한 후 해냈다는 성취감과 뿌듯함을 느끼는 것을 좋아합니다. <br>
+:pray: 이런 성향과 자질이 업무에 긍정적으로 작용하리라 믿고 잘할 수 있으리라 믿습니다. :muscle:
 
 ### :computer: SKils :green_book:
 
