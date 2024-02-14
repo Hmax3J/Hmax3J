@@ -8,11 +8,14 @@
 :pray: 이런 성향과 자질이 업무에 긍정적으로 작용하리라 믿고 잘할 수 있으리라 믿습니다. :muscle: <br>
 
 ## :rainbow: About Me:grey_question: :rainbow:
+![instagram](https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white){:target="_blank"}
 <div>
-  <a href='https://www.instagram.com/jehun_0201' target='_blank'>
-    <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
   
+  <a href='https://www.instagram.com/jehun_0201' target='_blank'>
+    
+
+  </a>
+  <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
   <a href='' target='_blank'>
     <img src="https://img.shields.io/badge/Blog-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
