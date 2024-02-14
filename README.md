@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=github"/>
   </a>
   
-  <a href=''>
+  <a href='mailto:hmax3j@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </div>
