@@ -9,7 +9,7 @@
 
 ## :rainbow: About Me:grey_question: :rainbow:
 <div>
-  <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fjehun_0201"/>
+  <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jehun_0201"/>
   
 </div>
 
