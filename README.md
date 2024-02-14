@@ -8,7 +8,10 @@
 :pray: 이런 성향과 자질이 업무에 긍정적으로 작용하리라 믿고 잘할 수 있으리라 믿습니다. :muscle: <br>
 
 ## :rainbow: About Me:grey_question: :rainbow:
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
+<div>
+  <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fjehun_0201"/>
+  
+</div>
 
 ## :computer: SKils :green_book:
 
