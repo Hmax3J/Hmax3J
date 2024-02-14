@@ -9,8 +9,17 @@
 
 ## :rainbow: About Me:grey_question: :rainbow:
 <div>
-  <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jehun_0201"/>
+  <a href='https://www.instagram.com/jehun_0201' target='_blank'>
+    <img src="https://img.shields.io/badge/Instagram-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
   
+  <a href='' target='_blank'>
+    <img src="https://img.shields.io/badge/Blog-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  
+  <a href='' target='_blank'>
+    <img src="https://img.shields.io/badge/Gmail-F05138?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
 
 ## :computer: SKils :green_book:
