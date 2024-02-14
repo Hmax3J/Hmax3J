@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHmax3J%2FHmax3J&count_bg=%235C00FF&title_bg=%23CE00FF&icon=waze.svg&icon_color=%23FFFCFC&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there ! :wave:
+## Hi there ! :wave:
 :sunny: 한국, 서울 거주 하고 있어요 ! BackEnd 개발자가 되고 싶어요 ! :smiley: <br>
 기본에 충실한 개발자가 되고 싶어요. :seedling: <br>
 역할이 주어지면 꼼꼼하고 성실하게 확인하고 진행하는 성향을 가졌습니다. <br>
@@ -7,7 +7,7 @@
 포기하지 않고 끝내 문제를 해결한 후 해냈다는 성취감과 뿌듯함을 느끼는 것을 좋아합니다. <br>
 :pray: 이런 성향과 자질이 업무에 긍정적으로 작용하리라 믿고 잘할 수 있으리라 믿습니다. :muscle:
 
-### :computer: SKils :green_book:
+## :computer: SKils :green_book:
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
