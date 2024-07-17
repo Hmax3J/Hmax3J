@@ -33,7 +33,7 @@
   </div>
 
 </div>
-업데이트 예정
+
 <!--
 **Hmax3J/Hmax3J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
