@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHmax3J%2FHmax3J&count_bg=%235C00FF&title_bg=%23CE00FF&icon=waze.svg&icon_color=%23FFFCFC&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Hi there ! :wave:
-:sunny: 한국, 서울 거주 하고 있어요 ! Back-End 개발자가 되고 싶어요 ! :smiley: <br>
+:sunny: 한국, 경기도 거주 하고 있어요 ! Back-End 개발자가 되고 싶어요 ! :smiley: <br>
 기본에 충실한 개발자가 되고 싶어요. :seedling: <br>
 역할이 주어지면 꼼꼼하고 성실하게 확인하고 진행하는 성향을 가졌습니다. <br>
 모르는 부분, 어려운 부분이 있더라도 포기하지 않고 끝까지 하는 성격입니다. <br>
